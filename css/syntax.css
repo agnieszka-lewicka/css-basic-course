@@ -1,3 +1,9 @@
-a{
-    text-decoration: underline; 
+h1{
+    font-weight: normal;
 }
+
+p{
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
