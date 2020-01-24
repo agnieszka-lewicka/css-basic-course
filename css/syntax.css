@@ -1,7 +1,3 @@
-article.featured-content{
-    background: red;
-}
-
-div.featured-content{
-    background-color: blue;
+body{
+    color: red;
 }
