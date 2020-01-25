@@ -1,9 +1,11 @@
-h1{
-    font-weight: normal;
+#header p{
+    text-transform: capitalize;
 }
 
-p{
-    font-weight: 600;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+body {
+    text-transform: uppercase;
 }
 
+body > p {
+    text-transform: none;
+}
