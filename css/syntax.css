@@ -1,8 +1,15 @@
-.static-width{
-    width: 300px;
+#banner{
+    background-color: #606060;
+    width: 100%;
     height: 300px;
-    background: url(https://i.pinimg.com/originals/38/4c/b4/384cb498960458fb15a6eacebc6aeaa0.gif) no-repeat top center;
-    background-color: tomato;
-    background-size: 400px;
+    background-image: url(https://www.pixelheart.pl/images/logo.png), url(https://mpi.krakow.pl/zalacznik/336354/frame_4_1577134394.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: center, top left;
+    background-size: 300px, 100%;
 }
 
+/***
+https://mpi.krakow.pl/zalacznik/336354/frame_4_1577134394.jpg
+https://www.pixelheart.pl/images/logo.png
+
+***/
