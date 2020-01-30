@@ -1,15 +1,5 @@
 #banner{
-    background-color: #606060;
     width: 100%;
     height: 300px;
-    background-image: url(https://www.pixelheart.pl/images/logo.png), url(https://mpi.krakow.pl/zalacznik/336354/frame_4_1577134394.jpg);
-    background-repeat: no-repeat, no-repeat;
-    background-position: center, top left;
-    background-size: 300px, 100%;
+    background-color: rgb(250, 150, 60);
 }
-
-/***
-https://mpi.krakow.pl/zalacznik/336354/frame_4_1577134394.jpg
-https://www.pixelheart.pl/images/logo.png
-
-***/
